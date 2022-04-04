@@ -1,8 +1,0 @@
-C:\Users\rachi\source\repos\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
-C:\Users\rachi\source\repos\oop\oop\obj\Debug\oop.csproj.SuggestedBindingRedirects.cache
-C:\Users\rachi\source\repos\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
-C:\Users\rachi\source\repos\oop\oop\bin\Debug\oop.exe.config
-C:\Users\rachi\source\repos\oop\oop\bin\Debug\oop.exe
-C:\Users\rachi\source\repos\oop\oop\bin\Debug\oop.pdb
-C:\Users\rachi\source\repos\oop\oop\obj\Debug\oop.exe
-C:\Users\rachi\source\repos\oop\oop\obj\Debug\oop.pdb
