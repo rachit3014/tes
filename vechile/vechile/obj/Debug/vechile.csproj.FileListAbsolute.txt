@@ -1,0 +1,8 @@
+C:\Users\rachi\source\repos\vechile\vechile\bin\Debug\vechile.exe.config
+C:\Users\rachi\source\repos\vechile\vechile\bin\Debug\vechile.exe
+C:\Users\rachi\source\repos\vechile\vechile\bin\Debug\vechile.pdb
+C:\Users\rachi\source\repos\vechile\vechile\obj\Debug\vechile.csproj.AssemblyReference.cache
+C:\Users\rachi\source\repos\vechile\vechile\obj\Debug\vechile.csproj.SuggestedBindingRedirects.cache
+C:\Users\rachi\source\repos\vechile\vechile\obj\Debug\vechile.csproj.CoreCompileInputs.cache
+C:\Users\rachi\source\repos\vechile\vechile\obj\Debug\vechile.exe
+C:\Users\rachi\source\repos\vechile\vechile\obj\Debug\vechile.pdb
